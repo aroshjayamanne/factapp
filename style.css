@@ -1,0 +1,38 @@
+body {
+  background-color: #2f3033;
+}
+
+.fact-form {
+  background-color: #525252;
+}
+h1 {
+  font-size: 42px;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: coiny;
+  color: #f97316;
+}
+
+.fact {
+  font-size: 20px;
+  line-height: 1.4;
+  font-family: sono, Arial, Helvetica, sans-serif;
+  color: #ffffff;
+  background-color: #525252;
+}
+
+a {
+  color: blue;
+}
+
+.tag {
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #ef4444;
+  font-weight: bolder;
+  text-tr
+}
+
+ul {
+  list-style: none;
+}
