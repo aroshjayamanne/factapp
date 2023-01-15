@@ -72,11 +72,12 @@ a {
   margin: 3%;
 } */
 
-/* .side-bar {
+.side-bar {
   background-color: #424242;
   border-radius: 20px;
-  margin: 3%;
-} */
+  display: inl;
+  align-items: center;
+}
 
 .header {
   margin-bottom: 40px;
