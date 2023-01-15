@@ -16,6 +16,7 @@ body {
   margin-bottom: 40px;
   padding: 16px 40px;
   border-radius: 15px;
+  text-align: center;
 }
 h1 {
   font-size: 42px;
@@ -23,8 +24,17 @@ h1 {
   /* text-align: center; */
   font-family: coiny;
   color: #f97316;
+  /* margin-left: 10px; */
 }
 
+.logo {
+  /* background-color: yellow; */
+  display: flex;
+  align-items: center;
+  line-height: 1;
+  margin-top: 6px;
+  gap: 16px;
+}
 .fact {
   font-size: 20px;
   line-height: 1.4;
@@ -70,4 +80,15 @@ a {
 
 .header {
   margin-bottom: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.share {
+  font-family: coiny;
+  padding: 15px;
+  font-size: 15px;
+  background-color: #eab308;
+  border-radius: 15px;
 }
