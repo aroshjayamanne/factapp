@@ -75,15 +75,15 @@ a {
 .side-bar {
   background-color: #424242;
   border-radius: 20px;
-  display: inl;
   align-items: center;
 }
 
 .header {
   margin-bottom: 40px;
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  align-items: center; /*vertical alignment */
+  /*flexbox gives tools to align items vertically and horizontally*/
+  justify-content: space-between; /*horizontal alignment*/
 }
 
 .share {
