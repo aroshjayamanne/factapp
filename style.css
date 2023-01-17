@@ -43,6 +43,11 @@ h1 {
   margin-bottom: 16px;
   padding: 16px 24px;
   border-radius: 15px;
+  gap: 84px;
+  justify-content: space;
+
+  display: flex;
+  align-items: center;
   /* border: 4px solid #ffffff; */
 
   /* padding: 3%;
@@ -101,3 +106,9 @@ a {
 .container {
   background-color: red;
 }
+
+/* .buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+} */
