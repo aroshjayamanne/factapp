@@ -86,6 +86,10 @@ a {
   justify-content: space-between; /*horizontal alignment*/
 }
 
+.logo {
+  display: flex;
+  align-items: center;
+}
 .share {
   font-family: coiny;
   padding: 15px;
