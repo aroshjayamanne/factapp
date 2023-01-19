@@ -17,6 +17,10 @@ body {
   padding: 16px 40px;
   border-radius: 15px;
   text-align: center;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  border-radius: 16px;
 }
 h1 {
   font-size: 42px;
@@ -112,3 +116,6 @@ a {
   align-items: center;
   justify-content: space-between;
 } */
+.hidden {
+  display: none !important;
+}
